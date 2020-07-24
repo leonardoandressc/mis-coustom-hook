@@ -1,0 +1,6 @@
+# useCounter
+
+Ejemplo de uso:
+```
+
+```
